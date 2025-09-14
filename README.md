@@ -1,6 +1,6 @@
 # choenecloud101
 Aspiring cloud engineer and security: Building skills in AWS and OCI
-# 👋 Hi, I'm Ralph  
+# 👋 Hi, Im Choene
 
 🎓 Final-year BSocSci student (Criminology & Psychology) at the University of the Free State  
 ☁️ Aspiring **Cloud & Compliance Specialist**  
@@ -25,7 +25,7 @@ Aspiring cloud engineer and security: Building skills in AWS and OCI
 ---
 
 ## 📜 Certifications  
-- 🟠 [AWS Cloud Practitioner Essentials](https://aws.amazon.com/certification/certified-cloud-practitioner/) *(in progress)*  
+- 🟠 [AWS Cloud Practitioner Essentials](https://aws.amazon.com/certification/certified-cloud-practitioner/)   
 - 🔵 Oracle Cloud Infrastructure (OCI) Associate  
 - 🟢 Fortinet NSE Fundamentals  
 - 🟡 Cybersecurity Foundations (LinkedIn Learning)  
@@ -60,4 +60,4 @@ Aspiring cloud engineer and security: Building skills in AWS and OCI
 - 🌐 Portfolio:(https://github.com/choene311)  
 
 ---
-✨ *This GitHub is my journey from criminology into the cloud — stay tuned for more projects!*  
+✨ *This GitHub is my journey from criminology and psychology into the cloud — stay tuned for more projects!*  
