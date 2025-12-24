@@ -25,12 +25,13 @@ Aspiring cloud engineer and security: Building skills in AWS and OCI
 ---
 
 ## 📜 Certifications  
+-AZ900 certified
+-SC900 certified
 - 🟠 [AWS Cloud Practitioner Essentials](https://aws.amazon.com/certification/certified-cloud-practitioner/)   
 - 🔵 Oracle Cloud Infrastructure (OCI) Associate  
 - 🟢 Fortinet NSE Fundamentals  
 - 🟡 Cybersecurity Foundations (LinkedIn Learning)  
 
-*(More coming soon: Azure AZ-900, Cloud Security and OCI Architect)*  
 
 ---
 
